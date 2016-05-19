@@ -35,7 +35,10 @@
       "version": "1.0.0-preview1-final",
       "type": "build"
     },
-    "EntityFramework.Core": "7.0.0-rc1-final"
+    "EntityFramework.Core": "7.0.0-rc1-final",
+    "Xen.DataLayer": "1.0.0-*",
+    "Xen.DomainClasses": "1.0.0-*",
+    "Xen.UnitOfWork": "1.0.0-*"
   },
 
   "tools": {

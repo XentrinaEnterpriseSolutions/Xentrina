@@ -35,9 +35,6 @@
       "version": "1.0.0-preview1-final",
       "type": "build"
     },
-    "Xen.DataLayer": "1.0.0-*",
-    "Xen.DomainClasses": "1.0.0-*",
-    "Xen.WebApi": "1.0.0-*",
     "EntityFramework.Core": "7.0.0-rc1-final"
   },
 

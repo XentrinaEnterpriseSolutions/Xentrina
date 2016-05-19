@@ -4178,15 +4178,15 @@
       },
       "Xen.DomainClasses/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v1.0",
+        "framework": "DNXCore,Version=v5.0",
         "dependencies": {
           "Microsoft.NETCore.App": "1.0.0-rc2"
         },
         "compile": {
-          "netcoreapp1.0/Xen.DomainClasses.dll": {}
+          "dnxcore50/Xen.DomainClasses.dll": {}
         },
         "runtime": {
-          "netcoreapp1.0/Xen.DomainClasses.dll": {}
+          "dnxcore50/Xen.DomainClasses.dll": {}
         }
       },
       "Xen.WebApi/1.0.0": {
